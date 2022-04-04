@@ -1,12 +1,15 @@
 import React, { useState } from 'react';
 import './App.css';
 import { Day } from './Day';
-import Services from './Services';
+import APIDatas from './service/APIDatas';
+import Services from './service/Services';
 
 function App()
 {   
     const [idPage, setIdPage] = useState(0);
     const days = Services.GetDatas(idPage);
+    const datas = new APIDatas('https://jsonplaceholder.typicode.com/', 'fr');
+
     return (
         <div className='container'>
         <div className='container p-5 my-5 border'> <h1> Planning DEV </h1> </div>
