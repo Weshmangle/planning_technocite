@@ -1,0 +1,19 @@
+{
+  "name": "planning_technocite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Weshmangle/planning_technocite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Weshmangle/planning_technocite/issues"
+  },
+  "homepage": "https://github.com/Weshmangle/planning_technocite#readme"
+}

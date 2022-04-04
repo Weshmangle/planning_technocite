@@ -1,0 +1,1542 @@
+[
+  {
+    "90": 0,
+    "jour": "14/03/2022",
+    "Intitulé Bdc": "Jour d'accueil",
+    "Developpeurs": "---",
+    "Formateur": "---"
+  },
+  {
+    "90": "",
+    "jour": "15/03/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "16/03/2022",
+    "Intitulé Bdc": "La communication dans le milieu du gaming",
+    "Developpeurs": "- Outils (comment et quoi communiquer)\n- Les qualités d'un bon trailer\n- Cadeaux de communication\n- Comment devenir une personne publique (veille et bonne exploitation des réseaux sociaux)\n- Contact presse & youtubers\n- Steam (préparation des supports de communication, fonctionnement du backend, et.)\n- Events, awards, contests\n- Timing (com schedule)",
+    "Formateur": "Sophie Schiaratura"
+  },
+  {
+    "90": 1,
+    "jour": "17/03/2022",
+    "Intitulé Bdc": "Gaming - Game designer",
+    "Developpeurs": "Journée d'initiation au métier de game designer:\n- Le rôle du game designer\n- Le game design\n- Les outils du game designer\n- Comment dialoguer efficacement avec un game designer en tant que programmeur ?",
+    "Formateur": "Hugo Bourbon"
+  },
+  {
+    "90": 1,
+    "jour": "18/03/2022",
+    "Intitulé Bdc": "Level Designer",
+    "Developpeurs": "- Rôle du level designer\n- Cas concret : Présentation du jeu Shift Quantum \n- Qu’est-ce qui caractèrise un niveau de Shift Quantum (intentions) \n- Test des différents blocs utilisés dans le LD \n- Exercice: Création de niveaux \n- Tests des niveaux",
+    "Formateur": "Fabrice Daniel"
+  },
+  {
+    "90": "",
+    "jour": "19/03/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "20/03/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "21/03/2022",
+    "Intitulé Bdc": "Graphiste 2D Gaming",
+    "Developpeurs": "- Initiation au métier de 2D game artist",
+    "Formateur": "Antoine Petit"
+  },
+  {
+    "90": 1,
+    "jour": "22/03/2022",
+    "Intitulé Bdc": "Graphiste 3D Gaming",
+    "Developpeurs": "- Initiation au métier de 3D game artist",
+    "Formateur": "Maude L'hoir"
+  },
+  {
+    "90": 1,
+    "jour": "23/03/2022",
+    "Intitulé Bdc": "Histoire du jeu vidéo et concepts",
+    "Developpeurs": "",
+    "Formateur": "Alexandre Wyns"
+  },
+  {
+    "90": 0,
+    "jour": "24/03/2022",
+    "Intitulé Bdc": "Histoire du jeu vidéo et concepts",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 0,
+    "jour": "25/03/2022",
+    "Intitulé Bdc": "L'industrie du jeu vidéo",
+    "Developpeurs": "- Etat de l'industrie du jeu vidéo dans le monde\n- Etat de l'industrie du jeu vidéo en Belgique\n- Présentations de quelques studios belges\n- Présentations d'acteurs de l'écosystème belge\n- Différentes écoles et centres de formations\n- Les principaux événements\n- Le parcours du jeune dev indé belge\n- Et pourquoi pas vous?",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "26/03/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "27/03/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "28/03/2022",
+    "Intitulé Bdc": "Gestion de production Gaming",
+    "Developpeurs": "- Initiation aux jeux de société modernes",
+    "Formateur": "Fabrice Daniel"
+  },
+  {
+    "90": 0,
+    "jour": "29/03/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 0,
+    "jour": "30/03/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "31/03/2022",
+    "Intitulé Bdc": "Gestion de production Gaming",
+    "Developpeurs": "- Initiation aux jeux de société modernes",
+    "Formateur": "Hugo Bourbon"
+  },
+  {
+    "90": 0,
+    "jour": "1/04/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "2/04/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "3/04/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 0,
+    "jour": "4/04/2022",
+    "Intitulé Bdc": "Suivi Florence",
+    "Developpeurs": "--",
+    "Formateur": "--"
+  },
+  {
+    "90": 1,
+    "jour": "5/04/2022",
+    "Intitulé Bdc": "Unity 3D",
+    "Developpeurs": "Introduction à Unity, C#, Git, \"new\" prefab system",
+    "Formateur": "Ambroise Gram"
+  },
+  {
+    "90": 1,
+    "jour": "6/04/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "7/04/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "8/04/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "9/04/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "10/04/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "11/04/2022",
+    "Intitulé Bdc": "Unity 3D",
+    "Developpeurs": "Animation et Animator en 2D et 3D, Character Controller c#, Cinemachine et Timeline",
+    "Formateur": "Cherif Younis"
+  },
+  {
+    "90": 1,
+    "jour": "12/04/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "13/04/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "14/04/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "15/04/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "16/04/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "17/04/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "18/04/2022",
+    "Intitulé Bdc": "-- Pâques",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "19/04/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "20/04/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "21/04/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "22/04/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "23/04/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "24/04/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "25/04/2022",
+    "Intitulé Bdc": "Unity 3D",
+    "Developpeurs": "Audio interactif",
+    "Formateur": "Cherif Younis"
+  },
+  {
+    "90": 1,
+    "jour": "26/04/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "27/04/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "28/04/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "29/04/2022",
+    "Intitulé Bdc": "Self-study",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "30/04/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "1/05/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 0,
+    "jour": "2/05/2022",
+    "Intitulé Bdc": "Suivi Florence",
+    "Developpeurs": "--",
+    "Formateur": "--"
+  },
+  {
+    "90": 1,
+    "jour": "3/05/2022",
+    "Intitulé Bdc": "Unity 3D",
+    "Developpeurs": "Jeu basé sur la physique et Unit Tests",
+    "Formateur": "Ambroise Gram"
+  },
+  {
+    "90": 1,
+    "jour": "4/05/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "5/05/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "6/05/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "7/05/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "8/05/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "9/05/2022",
+    "Intitulé Bdc": "Self-study",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "10/05/2022",
+    "Intitulé Bdc": "Gestion de production Gaming",
+    "Developpeurs": "Gamejam",
+    "Formateur": "Ambroise Gram"
+  },
+  {
+    "90": 1,
+    "jour": "11/05/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "12/05/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "13/05/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "14/05/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "15/05/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "16/05/2022",
+    "Intitulé Bdc": "Unity 3D",
+    "Developpeurs": "Shader, Lighting Rendering",
+    "Formateur": "Cherif Younis"
+  },
+  {
+    "90": 1,
+    "jour": "17/05/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "18/05/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "19/05/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "URP / HDRP",
+    "Formateur": ""
+  },
+  {
+    "90": 0,
+    "jour": "20/05/2022",
+    "Intitulé Bdc": "Suivi Florence",
+    "Developpeurs": "--",
+    "Formateur": "--"
+  },
+  {
+    "90": "",
+    "jour": "21/05/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "22/05/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "23/05/2022",
+    "Intitulé Bdc": "Unity 3D",
+    "Developpeurs": "AI",
+    "Formateur": "Cherif Younis"
+  },
+  {
+    "90": 1,
+    "jour": "24/05/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "25/05/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 0,
+    "jour": "26/05/2022",
+    "Intitulé Bdc": "-- Ascension",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 0,
+    "jour": "27/05/2022",
+    "Intitulé Bdc": "-- Pont",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "28/05/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "29/05/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 0,
+    "jour": "30/05/2022",
+    "Intitulé Bdc": "Cours d'anglais",
+    "Developpeurs": "",
+    "Formateur": "Alice Abels"
+  },
+  {
+    "90": 1,
+    "jour": "31/05/2022",
+    "Intitulé Bdc": "Unity 3D",
+    "Developpeurs": "Canvas and UI",
+    "Formateur": "Ambroise Gram"
+  },
+  {
+    "90": 1,
+    "jour": "1/06/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "2/06/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "3/06/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "4/06/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "5/06/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 0,
+    "jour": "6/06/2022",
+    "Intitulé Bdc": "-- Pentecôte",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 0,
+    "jour": "7/06/2022",
+    "Intitulé Bdc": "Cours d'anglais",
+    "Developpeurs": "",
+    "Formateur": "Alice Abels"
+  },
+  {
+    "90": 1,
+    "jour": "8/06/2022",
+    "Intitulé Bdc": "Unity 3D",
+    "Developpeurs": "Multiplayer",
+    "Formateur": "Ambroise Gram"
+  },
+  {
+    "90": 1,
+    "jour": "9/06/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "10/06/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "11/06/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "12/06/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 0,
+    "jour": "13/06/2022",
+    "Intitulé Bdc": "Récupération du Doudou",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 0,
+    "jour": "14/06/2022",
+    "Intitulé Bdc": "Suivi Florence",
+    "Developpeurs": "--",
+    "Formateur": "--"
+  },
+  {
+    "90": 1,
+    "jour": "15/06/2022",
+    "Intitulé Bdc": "Unity 3D",
+    "Developpeurs": "Custom Editor creation - Automatisation",
+    "Formateur": "Cherif Younis"
+  },
+  {
+    "90": 1,
+    "jour": "16/06/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "17/06/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "18/06/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "19/06/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "20/06/2022",
+    "Intitulé Bdc": "Unity 3D",
+    "Developpeurs": "Scriptable Object Architecture",
+    "Formateur": "Cherif Younis"
+  },
+  {
+    "90": 1,
+    "jour": "21/06/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "22/06/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "23/06/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 0,
+    "jour": "24/06/2022",
+    "Intitulé Bdc": "Cours d'anglais",
+    "Developpeurs": "",
+    "Formateur": "Alice Abels"
+  },
+  {
+    "90": "",
+    "jour": "25/06/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "26/06/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 0,
+    "jour": "27/06/2022",
+    "Intitulé Bdc": "Cours d'anglais",
+    "Developpeurs": "",
+    "Formateur": "Alice Abels"
+  },
+  {
+    "90": 1,
+    "jour": "28/06/2022",
+    "Intitulé Bdc": "Gestion de production Gaming",
+    "Developpeurs": "Gamejam",
+    "Formateur": "Ambroise Gram"
+  },
+  {
+    "90": 1,
+    "jour": "29/06/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "30/06/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "1/07/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "2/07/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "3/07/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 0,
+    "jour": "4/07/2022",
+    "Intitulé Bdc": "Cours d'anglais",
+    "Developpeurs": "",
+    "Formateur": "Alice Abels"
+  },
+  {
+    "90": 0,
+    "jour": "5/07/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 0,
+    "jour": "6/07/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "7/07/2022",
+    "Intitulé Bdc": "Unity 3D",
+    "Developpeurs": "System production ( Localisation / Asset Pipeline / Etc )",
+    "Formateur": "Cherif Younis"
+  },
+  {
+    "90": 1,
+    "jour": "8/07/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "9/07/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "10/07/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "11/07/2022",
+    "Intitulé Bdc": "Unity 3D",
+    "Developpeurs": "-",
+    "Formateur": "Cherif Younis"
+  },
+  {
+    "90": 1,
+    "jour": "12/07/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "13/07/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "14/07/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "- Certification Unity 3D",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "15/07/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "-",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "16/07/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "17/07/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "18/07/2022",
+    "Intitulé Bdc": "Unity 3D",
+    "Developpeurs": "-",
+    "Formateur": "Cherif Younis"
+  },
+  {
+    "90": 1,
+    "jour": "19/07/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "-",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "20/07/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "-",
+    "Formateur": ""
+  },
+  {
+    "90": 0,
+    "jour": "21/07/2022",
+    "Intitulé Bdc": "-- Fête nationale",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 0,
+    "jour": "22/07/2022",
+    "Intitulé Bdc": "-- Pont",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "23/07/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "24/07/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "25/07/2022",
+    "Intitulé Bdc": "Gestion de production Gaming",
+    "Developpeurs": "Suivi des game concepts",
+    "Formateur": "Sylvain Nyssens"
+  },
+  {
+    "90": 1,
+    "jour": "26/07/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "Suivi des game concepts",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "27/07/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "Suivi des game concepts",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "28/07/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "Suivi des game concepts",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "29/07/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "Suivi des game concepts",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "30/07/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "31/07/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "1/08/2022",
+    "Intitulé Bdc": "----- Congés",
+    "Developpeurs": "----- Congés",
+    "Formateur": "----- Congés"
+  },
+  {
+    "90": "",
+    "jour": "2/08/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "3/08/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "4/08/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "5/08/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "6/08/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "7/08/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "8/08/2022",
+    "Intitulé Bdc": "----- Congés",
+    "Developpeurs": "----- Congés",
+    "Formateur": "----- Congés"
+  },
+  {
+    "90": "",
+    "jour": "9/08/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "10/08/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "11/08/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "12/08/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "13/08/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "14/08/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "15/08/2022",
+    "Intitulé Bdc": "-- Ascension",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "16/08/2022",
+    "Intitulé Bdc": "Kick-off",
+    "Developpeurs": "-",
+    "Formateur": "Cherif Younis"
+  },
+  {
+    "90": 1,
+    "jour": "17/08/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "-",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "18/08/2022",
+    "Intitulé Bdc": "Gestion de production Gaming",
+    "Developpeurs": "-",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "19/08/2022",
+    "Intitulé Bdc": "Self-study",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "20/08/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "21/08/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "22/08/2022",
+    "Intitulé Bdc": "Self-study",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 0,
+    "jour": "23/08/2022",
+    "Intitulé Bdc": "Suivi Florence",
+    "Developpeurs": "",
+    "Formateur": "--"
+  },
+  {
+    "90": 1,
+    "jour": "24/08/2022",
+    "Intitulé Bdc": "Gestion de production Gaming",
+    "Developpeurs": "-",
+    "Formateur": "Théo Constant"
+  },
+  {
+    "90": "",
+    "jour": "25/08/2022",
+    "Intitulé Bdc": "Self-study",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "26/08/2022",
+    "Intitulé Bdc": "Gestion de production Gaming",
+    "Developpeurs": "-",
+    "Formateur": "Sylvain Nyssens"
+  },
+  {
+    "90": "",
+    "jour": "27/08/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "28/08/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "29/08/2022",
+    "Intitulé Bdc": "Self-study",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "30/08/2022",
+    "Intitulé Bdc": "Gestion de production Gaming",
+    "Developpeurs": "-",
+    "Formateur": "Cherif Younis"
+  },
+  {
+    "90": 1,
+    "jour": "31/08/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "-",
+    "Formateur": "Cherif Younis"
+  },
+  {
+    "90": "",
+    "jour": "1/09/2022",
+    "Intitulé Bdc": "Self-study",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "2/09/2022",
+    "Intitulé Bdc": "Gestion de production Gaming",
+    "Developpeurs": "-",
+    "Formateur": "Hugo Bourbon"
+  },
+  {
+    "90": "",
+    "jour": "3/09/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "4/09/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "5/09/2022",
+    "Intitulé Bdc": "Self-study",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "6/09/2022",
+    "Intitulé Bdc": "Self-study",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "7/09/2022",
+    "Intitulé Bdc": "Gestion de production Gaming",
+    "Developpeurs": "-",
+    "Formateur": "Théo Constant"
+  },
+  {
+    "90": "",
+    "jour": "8/09/2022",
+    "Intitulé Bdc": "Self-study",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "9/09/2022",
+    "Intitulé Bdc": "Gestion de production Gaming",
+    "Developpeurs": "-",
+    "Formateur": "Théo Constant"
+  },
+  {
+    "90": "",
+    "jour": "10/09/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "11/09/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "12/09/2022",
+    "Intitulé Bdc": "Self-study",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 0,
+    "jour": "13/09/2022",
+    "Intitulé Bdc": "Suivi Florence",
+    "Developpeurs": "",
+    "Formateur": "--"
+  },
+  {
+    "90": 1,
+    "jour": "14/09/2022",
+    "Intitulé Bdc": "Gestion de production Gaming",
+    "Developpeurs": "-",
+    "Formateur": "Théo Constant"
+  },
+  {
+    "90": "",
+    "jour": "15/09/2022",
+    "Intitulé Bdc": "Self-study",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "16/09/2022",
+    "Intitulé Bdc": "Gestion de production Gaming",
+    "Developpeurs": "-",
+    "Formateur": "Sylvain Nyssens"
+  },
+  {
+    "90": "",
+    "jour": "17/09/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "18/09/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "19/09/2022",
+    "Intitulé Bdc": "Self-study",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "20/09/2022",
+    "Intitulé Bdc": "Self-study",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "21/09/2022",
+    "Intitulé Bdc": "Gestion de production Gaming",
+    "Developpeurs": "-",
+    "Formateur": "Théo Constant"
+  },
+  {
+    "90": "",
+    "jour": "22/09/2022",
+    "Intitulé Bdc": "Self-study",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "23/09/2022",
+    "Intitulé Bdc": "Gestion de production Gaming",
+    "Developpeurs": "-",
+    "Formateur": "Théo Constant"
+  },
+  {
+    "90": "",
+    "jour": "24/09/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "25/09/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "26/09/2022",
+    "Intitulé Bdc": "Self-study",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "27/09/2022",
+    "Intitulé Bdc": "Self-study",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "28/09/2022",
+    "Intitulé Bdc": "Gestion de production Gaming",
+    "Developpeurs": "-",
+    "Formateur": "Théo Constant"
+  },
+  {
+    "90": "",
+    "jour": "29/09/2022",
+    "Intitulé Bdc": "Self-study",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "30/09/2022",
+    "Intitulé Bdc": "Gestion de production Gaming",
+    "Developpeurs": "-",
+    "Formateur": "Hugo Bourbon"
+  },
+  {
+    "90": "",
+    "jour": "1/10/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "2/10/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "3/10/2022",
+    "Intitulé Bdc": "Self-study",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "4/10/2022",
+    "Intitulé Bdc": "Gestion de production Gaming",
+    "Developpeurs": "-",
+    "Formateur": "Cherif Younis"
+  },
+  {
+    "90": 1,
+    "jour": "5/10/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "-",
+    "Formateur": "Cherif Younis"
+  },
+  {
+    "90": "",
+    "jour": "6/10/2022",
+    "Intitulé Bdc": "Self-study",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "7/10/2022",
+    "Intitulé Bdc": "Gestion de production Gaming",
+    "Developpeurs": "-",
+    "Formateur": "Sylvain Nyssens"
+  },
+  {
+    "90": "",
+    "jour": "8/10/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "9/10/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "10/10/2022",
+    "Intitulé Bdc": "Pitch - Anglais",
+    "Developpeurs": "-",
+    "Formateur": "Alice Abels"
+  },
+  {
+    "90": 1,
+    "jour": "11/10/2022",
+    "Intitulé Bdc": "Gestion de production Gaming",
+    "Developpeurs": "-",
+    "Formateur": "Alexandre Wyns"
+  },
+  {
+    "90": "",
+    "jour": "12/10/2022",
+    "Intitulé Bdc": "Pitch - Anglais",
+    "Developpeurs": "-",
+    "Formateur": "Alice Abels"
+  },
+  {
+    "90": "",
+    "jour": "13/10/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "14/10/2022",
+    "Intitulé Bdc": "Gestion de production Gaming",
+    "Developpeurs": "-",
+    "Formateur": "Sylvain Nyssens"
+  },
+  {
+    "90": "",
+    "jour": "15/10/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "16/10/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "17/10/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "18/10/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "19/10/2022",
+    "Intitulé Bdc": "",
+    "Developpeurs": "",
+    "Formateur": ""
+  }
+]

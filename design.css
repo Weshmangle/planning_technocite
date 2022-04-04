@@ -1,0 +1,15 @@
+div
+{
+     display: flex;
+}
+
+.planning, .days, .body-scheduler
+{
+    flex-direction: column;
+}
+
+.planning
+{
+    padding: 5em;
+    background: #aabbcc;
+}
