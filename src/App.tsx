@@ -1,61 +1,51 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { useState } from 'react';
 import './App.css';
+import { Day } from './Day';
+import Services from './Services';
 
-function App() {
-  return (
-    <div className='container'>
-    <div className='container p-5 my-5 border'> <h1> Planning DEV </h1> </div>
-    <div id='days'>
-        <div className='list-group'>
-            <div className='list-group-item list-group-item-action bg-secondary text-white p-4 my-2' data-bs-toggle="tooltip" title="Description">
-                <div className='row'>
-                    <div className='col-sm-2'> 04/04 </div>
-                    <div className='col-sm-8 fw-bold'> Unity 3D </div>
-                    <div className='col-sm-2'> Ambroise </div>
-                </div>
+function App()
+{   
+    const [idPage, setIdPage] = useState(0);
+    const days = Services.GetDatas(idPage);
+    return (
+        <div className='container'>
+        <div className='container p-5 my-5 border'> <h1> Planning DEV </h1> </div>
+        <div id='days'>
+            <div className='list-group'>
+                {
+                    days.map((day:{day:string, label:string, teacher:string}, index:number)=>{
+                        return (<Day datas={day} key={index}></Day>);
+                    })
+                }
             </div>
-            <div className='list-group-item list-group-item-action bg-secondary text-white p-4 my-2' data-bs-toggle="tooltip" title="Description">
-                <div className='row'>
-                    <div className='col-sm-2'> 04/04 </div>
-                    <div className='col-sm-8 fw-bold'> Unity 3D </div>
-                    <div className='col-sm-2'> Ambroise </div>
+            <div className="btn-group container p-5 my-5 text-center">
+                <div className="col-sm-4">
+                    <button type="button" className="btn btn-secondary p-4" onClick={e => clickButtonPreviousWeek()}> <i className="fa-solid fa-caret-left">  </i> </button>
                 </div>
-            </div>
-            <div className='list-group-item list-group-item-action bg-secondary text-white p-4 my-2'>
-                <div className='row'>
-                    <div className='col-sm-2'> 04/04 </div>
-                    <div className='col-sm-8 fw-bold'> Unity 3D </div>
-                    <div className='col-sm-2'> Ambroise </div>
+                <div className="col-sm-4"> <h1> Semaine {idPage} </h1> </div>
+                <div className="col-sm-4">
+                    <button type="button" className="btn btn-secondary p-4" onClick={e => clickButtonNextWeek()}> <i className="fa-solid fa-caret-right"></i> </button>
                 </div>
-            </div>
-            <div className='list-group-item list-group-item-action bg-secondary text-white p-4 my-2'>
-                <div className='row'>
-                    <div className='col-sm-2'> 04/04 </div>
-                    <div className='col-sm-8 fw-bold'> Unity 3D </div>
-                    <div className='col-sm-2'> Ambroise </div>
-                </div>
-            </div>
-            <div className='list-group-item list-group-item-action bg-secondary text-white p-4 my-2'>
-                <div className='row'>
-                    <div className='col-sm-2'> 04/04 </div>
-                    <div className='col-sm-8 fw-bold'> Unity 3D </div>
-                    <div className='col-sm-2'> Ambroise </div>
-                </div>
-            </div>
+            </div> 
         </div>
-        <div className="btn-group container p-5 my-5 text-center">
-            <div className="col-sm-4"> <button type="button" className="btn btn-secondary"> <i className="fa-solid fa-caret-left"></i> </button> </div>
-            
-            <div className="col-sm-4"> <h1> Semaine 2 </h1> </div>
-            
-            <div className="col-sm-4">
-                <button type="button" className="btn btn-secondary"> <i className="fa-solid fa-caret-right"></i> </button>
-            </div>
-          </div> 
-    </div>
-</div>
-  );
+    </div>);
+
+    function clickButtonNextWeek()
+    {
+        setIdPage(idPage + 1);   
+    }
+
+    function clickButtonPreviousWeek()
+    {
+        if(idPage - 1 < 0)
+        {
+            setIdPage(0);
+        }
+        else
+        {
+            setIdPage(idPage - 1);
+        }       
+    }
 }
 
 export default App;
