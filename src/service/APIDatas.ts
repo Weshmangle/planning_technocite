@@ -1,5 +1,5 @@
-import { threadId } from "worker_threads";
 import HttpClient from "./HttpClient";
+import datas from './csvjson.json';
 
 class APIDatas extends HttpClient
 {
@@ -11,7 +11,7 @@ class APIDatas extends HttpClient
     get days()
     {
         return {
-            get : () => this.get('/users')
+            get : () => datas//this.get('/users')
         };
     }
     
