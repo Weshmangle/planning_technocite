@@ -1,5 +1,5 @@
 import HttpClient from "./HttpClient";
-import datas from './csvjson.json';
+import datas from './datas.json';
 
 class APIDatas extends HttpClient
 {

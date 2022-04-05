@@ -10,8 +10,11 @@ function idAnchor()
 
 function RefreshAnchor()
 {
-    let location = window.location;
-    location.href = '#' + 'CurrentDay';
+    if(idAnchor())
+    {
+        let location = window.location;
+        location.href = '#' + 'CurrentDay';
+    }
 }
 
 export function Day(props:{datas:{day:string, label:string, teacher:string}})
