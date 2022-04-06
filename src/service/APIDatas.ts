@@ -1,5 +1,7 @@
 import HttpClient from "./HttpClient";
-import datas from './datas.json';
+import datas_dev from './datas_developers.json';
+import datas_gra from './datas_graphics.json';
+import datas_des from './datas_designers.json';
 
 class APIDatas extends HttpClient
 {
@@ -8,10 +10,23 @@ class APIDatas extends HttpClient
         super({baseURL : baseURL, headers : { lang : langCode}});
     }
 
-    get days()
+    get planningDevelopers()
     {
         return {
-            get : () => datas//this.get('/users')
+            get : () => datas_dev
+        };
+    }
+
+    get planningGraphics()
+    {
+        return {
+            get : () => datas_gra
+        };
+    }
+    get planningDesigners()
+    {
+        return {
+            get : () => datas_des
         };
     }
     

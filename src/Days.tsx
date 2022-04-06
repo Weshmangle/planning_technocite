@@ -15,9 +15,9 @@ export function Days(props:{days:any})
             let datas = {
                 id: index,
                 day : day['jour'],
-                label : day['Intitulé Bdc'],
-                teacher :day['Formateur'],
-                description:day['Developpeurs']
+                label : day['titre'],
+                teacher :day['formateur'],
+                description:day['description']
             };
             
             let currentDate:Date | undefined = dateStringToDate(datas.day);
@@ -28,10 +28,6 @@ export function Days(props:{days:any})
             
             today.setDate(today.getDate() - today.getDay() -1 );
             
-            if(today.getTime() == currentDate?.getTime())
-            {
-                console.info("bite");
-            }
             return <Day datas={datas} key={index} currentDay={isCurrentDay} scrollTo={today.getTime() == currentDate?.getTime()}></Day>;
         });
 }

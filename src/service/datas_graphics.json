@@ -1,0 +1,1542 @@
+[
+  {
+    "90": 0,
+    "jour": "14/3/2022",
+    "titre": "Jour d'accueil",
+    "description": "---",
+    "formateur": "---"
+  },
+  {
+    "90": "",
+    "jour": "15/3/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "16/3/2022",
+    "titre": "Gaming - Game designer",
+    "description": "Journée d'initiation au métier de game designer:\n- Le rôle du game designer\n- Le game design\n- Les outils du game designer\n- Comment dialoguer efficacement avec un game designer en tant qu'artiste ?",
+    "formateur": "Hugo Bourbon"
+  },
+  {
+    "90": 1,
+    "jour": "17/3/2022",
+    "titre": "Level Designer",
+    "description": "- Rôle du level designer\n- Cas concret : Présentation du jeu Shift Quantum \n- Qu’est-ce qui caractèrise un niveau de Shift Quantum (intentions) \n- Test des différents blocs utilisés dans le LD \n- Exercice: Création de niveaux \n- Tests des niveaux",
+    "formateur": "Fabrice Daniel"
+  },
+  {
+    "90": 1,
+    "jour": "18/3/2022",
+    "titre": "La communication dans le milieu du gaming",
+    "description": "- Outils (comment et quoi communiquer)\n- Les qualités d'un bon trailer\n- Cadeaux de communication\n- Comment devenir une personne publique (veille et bonne exploitation des réseaux sociaux)\n- Contact presse & youtubers\n- Steam (préparation des supports de communication, fonctionnement du backend, et.)\n- Events, awards, contests\n- Timing (com schedule)",
+    "formateur": "Sophie Schiaratura"
+  },
+  {
+    "90": "",
+    "jour": "19/3/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "20/3/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "21/3/2022",
+    "titre": "Graphiste 3D Gaming",
+    "description": "Introduction aux outils et au workflow (comment la 3D peut etre utilisée à la fois pour la 2D et la 3D, et comment penser \"out of the box\")",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": 1,
+    "jour": "22/3/2022",
+    "titre": "Graphiste 2D Gaming",
+    "description": "Notion de Concept pour de la 3D et Key art",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": 0,
+    "jour": "23/3/2022",
+    "titre": "Histoire du jeu vidéo et concepts",
+    "description": "- Histoire du JV par décennies",
+    "formateur": "Alexandre Wyns"
+  },
+  {
+    "90": 1,
+    "jour": "24/3/2022",
+    "titre": "Histoire du jeu vidéo et concepts",
+    "description": "- Découverte de jeux avec recherche d'info business\n- Exercice \"Hearthstone\": création d'un deck où les couleurs sont les décennies",
+    "formateur": "Alexandre Wyns"
+  },
+  {
+    "90": 0,
+    "jour": "25/3/2022",
+    "titre": "L'industrie du jeu vidéo",
+    "description": "- Etat de l'industrie du jeu vidéo dans le monde\n- Etat de l'industrie du jeu vidéo en Belgique\n- Présentations de quelques studios belges\n- Présentations d'acteurs de l'écosystème belge\n- Différentes écoles et centres de formations\n- Les principaux événements\n- Le parcours du jeune dev indé belge\n- Et pourquoi pas vous?",
+    "formateur": "Alexandre Wyns"
+  },
+  {
+    "90": "",
+    "jour": "26/3/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "27/3/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "28/3/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "- Initiation aux escape games",
+    "formateur": "Hugo Bourbon"
+  },
+  {
+    "90": 1,
+    "jour": "29/3/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "- Initiation aux escape games",
+    "formateur": "Hugo Bourbon"
+  },
+  {
+    "90": 1,
+    "jour": "30/3/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "- Initiation aux escape games",
+    "formateur": "Hugo Bourbon"
+  },
+  {
+    "90": 0,
+    "jour": "31/3/2022",
+    "titre": "Self-study",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "1/4/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "Initiation aux escape games",
+    "formateur": "Hugo Bourbon"
+  },
+  {
+    "90": "",
+    "jour": "2/4/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "3/4/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "4/4/2022",
+    "titre": "Graphiste 3D Gaming",
+    "description": "- Modeling: création, conversion, modification d'objectfs 3D",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": 0,
+    "jour": "5/4/2022",
+    "titre": "Suivi Florence",
+    "description": "--",
+    "formateur": "--"
+  },
+  {
+    "90": 1,
+    "jour": "6/4/2022",
+    "titre": "Graphiste 3D Gaming",
+    "description": "-",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": 1,
+    "jour": "7/4/2022",
+    "titre": "Graphiste 3D Gaming",
+    "description": "-",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": 1,
+    "jour": "8/4/2022",
+    "titre": "Graphiste 3D Gaming",
+    "description": "-",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": "",
+    "jour": "9/4/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "10/4/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "11/4/2022",
+    "titre": "Graphiste 3D Gaming",
+    "description": "- Sculpting\n- Retopologie\n- Optimisation des meshes 3D\n- Gestion et création d'UVs\n- Texture painting\n- Baking de textures",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": 1,
+    "jour": "12/4/2022",
+    "titre": "Graphiste 3D Gaming",
+    "description": "- Sculpting\n- Retopologie\n- Optimisation des meshes 3D\n- Gestion et création d'UVs\n- Texture painting\n- Baking de textures",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": 1,
+    "jour": "13/4/2022",
+    "titre": "Graphiste 3D Gaming",
+    "description": "- Sculpting\n- Retopologie\n- Optimisation des meshes 3D\n- Gestion et création d'UVs\n- Texture painting\n- Baking de textures",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": 1,
+    "jour": "14/4/2022",
+    "titre": "Graphiste 3D Gaming",
+    "description": "- Sculpting\n- Retopologie\n- Optimisation des meshes 3D\n- Gestion et création d'UVs\n- Texture painting\n- Baking de textures",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": 1,
+    "jour": "15/4/2022",
+    "titre": "Graphiste 3D Gaming",
+    "description": "- Sculpting\n- Retopologie\n- Optimisation des meshes 3D\n- Gestion et création d'UVs\n- Texture painting\n- Baking de textures",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": "",
+    "jour": "16/4/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "17/4/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "18/4/2022",
+    "titre": "-- Pâques",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "19/4/2022",
+    "titre": "-- Pâques",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "20/4/2022",
+    "titre": "-- Pâques",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "21/4/2022",
+    "titre": "-- Pâques",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "22/4/2022",
+    "titre": "-- Pâques",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "23/4/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "24/4/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "25/4/2022",
+    "titre": "Animation 3D Gaming",
+    "description": "-",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": 1,
+    "jour": "26/4/2022",
+    "titre": "Animation 3D Gaming",
+    "description": "-",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": 1,
+    "jour": "27/4/2022",
+    "titre": "Animation 3D Gaming",
+    "description": "-",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": 1,
+    "jour": "28/4/2022",
+    "titre": "Animation 3D Gaming",
+    "description": "-",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": "",
+    "jour": "29/4/2022",
+    "titre": "Self-study",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "30/4/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "1/5/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 0,
+    "jour": "2/5/2022",
+    "titre": "Suivi Florence",
+    "description": "--",
+    "formateur": "--"
+  },
+  {
+    "90": 1,
+    "jour": "3/5/2022",
+    "titre": "Animation 3D Gaming",
+    "description": "- Rigging\n- Animation",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": 1,
+    "jour": "4/5/2022",
+    "titre": "Animation 3D Gaming",
+    "description": "- Rigging\n- Animation",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": 1,
+    "jour": "5/5/2022",
+    "titre": "Animation 3D Gaming",
+    "description": "- Rigging\n- Animation",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": 1,
+    "jour": "6/5/2022",
+    "titre": "Animation 3D Gaming",
+    "description": "- Rigging\n- Animation",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": "",
+    "jour": "7/5/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "8/5/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "9/5/2022",
+    "titre": "Self-study",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "10/5/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "Gamejam",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": 1,
+    "jour": "11/5/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "Gamejam",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": 1,
+    "jour": "12/5/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "Gamejam",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": 1,
+    "jour": "13/5/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "Gamejam",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": "",
+    "jour": "14/5/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "15/5/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 0,
+    "jour": "16/5/2022",
+    "titre": "Suivi Florence",
+    "description": "--",
+    "formateur": "--"
+  },
+  {
+    "90": 1,
+    "jour": "17/5/2022",
+    "titre": "Gaming - Game designer",
+    "description": "Notions de Game Design avancées qui peuvent influencer positivement la production d'assets (affordance, signs & signifiers, clumping, narrative design, etc.)",
+    "formateur": "Alexandre Wyns"
+  },
+  {
+    "90": 1,
+    "jour": "18/5/2022",
+    "titre": "Gaming - Game designer",
+    "description": "Notions de Game Design avancées qui peuvent influencer positivement la production d'assets (affordance, signs & signifiers, clumping, narrative design, etc.)",
+    "formateur": "Alexandre Wyns"
+  },
+  {
+    "90": 1,
+    "jour": "19/5/2022",
+    "titre": "Gaming - Game designer",
+    "description": "Notions de Game Design avancées qui peuvent influencer positivement la production d'assets (affordance, signs & signifiers, clumping, narrative design, etc.)",
+    "formateur": "Alexandre Wyns"
+  },
+  {
+    "90": 1,
+    "jour": "20/5/2022",
+    "titre": "Gaming - Game designer",
+    "description": "Notions de Game Design avancées qui peuvent influencer positivement la production d'assets (affordance, signs & signifiers, clumping, narrative design, etc.)",
+    "formateur": "Alexandre Wyns"
+  },
+  {
+    "90": "",
+    "jour": "21/5/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "22/5/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "23/5/2022",
+    "titre": "Unity 3D",
+    "description": "Initiation à Unity",
+    "formateur": "Julien Jumeau"
+  },
+  {
+    "90": 1,
+    "jour": "24/5/2022",
+    "titre": "Unity 3D",
+    "description": "Initiation à Unity",
+    "formateur": "Julien Jumeau"
+  },
+  {
+    "90": 1,
+    "jour": "25/5/2022",
+    "titre": "Unity 3D",
+    "description": "Initiation à Unity",
+    "formateur": "Julien Jumeau"
+  },
+  {
+    "90": 0,
+    "jour": "26/5/2022",
+    "titre": "-- Ascension",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 0,
+    "jour": "27/5/2022",
+    "titre": "-- Pont",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "28/5/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "29/5/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 0,
+    "jour": "30/5/2022",
+    "titre": "Cours d'anglais",
+    "description": "",
+    "formateur": "Alice Abels"
+  },
+  {
+    "90": 1,
+    "jour": "31/5/2022",
+    "titre": "Unity 3D",
+    "description": "Unity3D Practical - Physics-based Gameplay",
+    "formateur": "Guillaume Bouckaert"
+  },
+  {
+    "90": 1,
+    "jour": "1/6/2022",
+    "titre": "Unity 3D",
+    "description": "Unity3D Practical - Mouse-focused Gameplay",
+    "formateur": "Guillaume Bouckaert"
+  },
+  {
+    "90": 1,
+    "jour": "2/6/2022",
+    "titre": "Unity 3D",
+    "description": "Unity3D Practical - Gameplay & UI",
+    "formateur": "Guillaume Bouckaert"
+  },
+  {
+    "90": 1,
+    "jour": "3/6/2022",
+    "titre": "Unity 3D",
+    "description": "Unity3D Practical - Dynamic Cameras",
+    "formateur": "Guillaume Bouckaert"
+  },
+  {
+    "90": "",
+    "jour": "4/6/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "5/6/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 0,
+    "jour": "6/6/2022",
+    "titre": "-- Pentecôte",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "7/6/2022",
+    "titre": "Cours d'anglais",
+    "description": "",
+    "formateur": "Alice Abels"
+  },
+  {
+    "90": 1,
+    "jour": "8/6/2022",
+    "titre": "Graphiste 2D Gaming",
+    "description": "Concept art & painting :\n- Moodboard\n- Early concept (personnages et décors)\n- Etablir les palettes de couleurs\n- Concept in-game",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": 1,
+    "jour": "9/6/2022",
+    "titre": "Graphiste 2D Gaming",
+    "description": "Concept art & painting :\n- Moodboard\n- Early concept (personnages et décors)\n- Etablir les palettes de couleurs\n- Concept in-game",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": 0,
+    "jour": "10/6/2022",
+    "titre": "Suivi Florence",
+    "description": "--",
+    "formateur": "--"
+  },
+  {
+    "90": "",
+    "jour": "11/6/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "12/6/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 0,
+    "jour": "13/6/2022",
+    "titre": "Récupération du Doudou",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "14/6/2022",
+    "titre": "Graphiste 2D Gaming",
+    "description": "Concept art & painting (suite)",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": 1,
+    "jour": "15/6/2022",
+    "titre": "Graphiste 2D Gaming",
+    "description": "Concept art & painting (suite)",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": 1,
+    "jour": "16/6/2022",
+    "titre": "Graphiste 2D Gaming",
+    "description": "Concept art & painting (suite)",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": 1,
+    "jour": "17/6/2022",
+    "titre": "Graphiste 2D Gaming",
+    "description": "Concept art & painting (suite)",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": "",
+    "jour": "18/6/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "19/6/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "20/6/2022",
+    "titre": "Graphiste 2D Gaming",
+    "description": "Production de game art & texturing :\n\n- Optimisation du workflow (smart object, calque de remplissages, etc.)\n- Création de body parts exploitables pour de l'animation",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": 1,
+    "jour": "21/6/2022",
+    "titre": "Graphiste 2D Gaming",
+    "description": "Production de game art & texturing :\n\n- Optimisation du workflow (smart object, calque de remplissages, etc.)\n- Création de body parts exploitables pour de l'animation",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": 1,
+    "jour": "22/6/2022",
+    "titre": "Graphiste 2D Gaming",
+    "description": "Production de game art & texturing :\n\n- Optimisation du workflow (smart object, calque de remplissages, etc.)\n- Création de body parts exploitables pour de l'animation",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": 1,
+    "jour": "23/6/2022",
+    "titre": "Graphiste 2D Gaming",
+    "description": "Production de game art & texturing :\n\n- Optimisation du workflow (smart object, calque de remplissages, etc.)\n- Création de body parts exploitables pour de l'animation",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": 0,
+    "jour": "24/6/2022",
+    "titre": "Cours d'anglais",
+    "description": "",
+    "formateur": "Alice Abels"
+  },
+  {
+    "90": "",
+    "jour": "25/6/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "26/6/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 0,
+    "jour": "27/6/2022",
+    "titre": "Cours d'anglais",
+    "description": "",
+    "formateur": "Alice Abels"
+  },
+  {
+    "90": 1,
+    "jour": "28/6/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "Gamejam",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": 1,
+    "jour": "29/6/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "Gamejam",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": 1,
+    "jour": "30/6/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "Gamejam",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": 1,
+    "jour": "1/7/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "Gamejam",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": "",
+    "jour": "2/7/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "3/7/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 0,
+    "jour": "4/7/2022",
+    "titre": "Cours d'anglais",
+    "description": "",
+    "formateur": "Alice Abels"
+  },
+  {
+    "90": 0,
+    "jour": "5/7/2022",
+    "titre": "Cours d'anglais",
+    "description": "",
+    "formateur": "Alice Abels"
+  },
+  {
+    "90": 0,
+    "jour": "6/7/2022",
+    "titre": "Cours d'anglais",
+    "description": "",
+    "formateur": "Alice Abels"
+  },
+  {
+    "90": 1,
+    "jour": "7/7/2022",
+    "titre": "Graphiste 2D Gaming",
+    "description": "Finalisation des body parts",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": 1,
+    "jour": "8/7/2022",
+    "titre": "Graphiste 2D Gaming",
+    "description": "Finalisation des body parts",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": "",
+    "jour": "9/7/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "10/7/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "11/7/2022",
+    "titre": "Graphiste 2D Gaming",
+    "description": "Animation des assets :\n- Présentation de Spine\n- Rigging\n- Animation",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": 1,
+    "jour": "12/7/2022",
+    "titre": "Graphiste 2D Gaming",
+    "description": "Animation des assets :\n- Présentation de Spine\n- Rigging\n- Animation",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": 1,
+    "jour": "13/7/2022",
+    "titre": "Graphiste 2D Gaming",
+    "description": "Animation des assets :\n- Présentation de Spine\n- Rigging\n- Animation",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": 1,
+    "jour": "14/7/2022",
+    "titre": "Graphiste 2D Gaming",
+    "description": "Animation des assets :\n- Présentation de Spine\n- Rigging\n- Animation",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": 1,
+    "jour": "15/7/2022",
+    "titre": "Graphiste 2D Gaming",
+    "description": "Animation des assets :\n- Présentation de Spine\n- Rigging\n- Animation",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": "",
+    "jour": "16/7/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "17/7/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "18/7/2022",
+    "titre": "Animation 2D Gaming",
+    "description": "Intégration des assets dans Unity 3D :\n- Import d'un projet Spine\n- Import d'assets 2D , Création de particules avec \"Shuriken\".",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": 1,
+    "jour": "19/7/2022",
+    "titre": "Animation 2D Gaming",
+    "description": "Intégration des assets dans Unity 3D :\n- Import d'un projet Spine\n- Import d'assets 2D , Création de particules avec \"Shuriken\".",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": 1,
+    "jour": "20/7/2022",
+    "titre": "Animation 2D Gaming",
+    "description": "Intégration des assets dans Unity 3D :\n- Import d'un projet Spine\n- Import d'assets 2D , Création de particules avec \"Shuriken\".",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": 0,
+    "jour": "21/7/2022",
+    "titre": "-- Fête nationale",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 0,
+    "jour": "22/7/2022",
+    "titre": "-- Pont",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "23/7/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "24/7/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "25/7/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "Suivi des game concepts",
+    "formateur": "Hugo Bourbon"
+  },
+  {
+    "90": 1,
+    "jour": "26/7/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "Suivi des game concepts + pré-sélection",
+    "formateur": "Hugo Bourbon"
+  },
+  {
+    "90": 1,
+    "jour": "27/7/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "Suivi des game concepts + pré-sélection",
+    "formateur": "Hugo Bourbon"
+  },
+  {
+    "90": 1,
+    "jour": "28/7/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "Suivi des game concepts",
+    "formateur": "Hugo Bourbon"
+  },
+  {
+    "90": 1,
+    "jour": "29/7/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "Suivi des game concepts + pré-sélection",
+    "formateur": "Hugo Bourbon"
+  },
+  {
+    "90": "",
+    "jour": "30/7/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "31/7/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "1/8/2022",
+    "titre": "----- Congés",
+    "description": "----- Congés",
+    "formateur": "----- Congés"
+  },
+  {
+    "90": "",
+    "jour": "2/8/2022",
+    "titre": "----- Congés",
+    "description": "----- Congés",
+    "formateur": "----- Congés"
+  },
+  {
+    "90": "",
+    "jour": "3/8/2022",
+    "titre": "----- Congés",
+    "description": "----- Congés",
+    "formateur": "----- Congés"
+  },
+  {
+    "90": "",
+    "jour": "4/8/2022",
+    "titre": "----- Congés",
+    "description": "----- Congés",
+    "formateur": "----- Congés"
+  },
+  {
+    "90": "",
+    "jour": "5/8/2022",
+    "titre": "----- Congés",
+    "description": "----- Congés",
+    "formateur": "----- Congés"
+  },
+  {
+    "90": "",
+    "jour": "6/8/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "7/8/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "8/8/2022",
+    "titre": "Sound design",
+    "description": "--",
+    "formateur": "Michel Grigorakis"
+  },
+  {
+    "90": 1,
+    "jour": "9/8/2022",
+    "titre": "Sound design",
+    "description": "--",
+    "formateur": "Michel Grigorakis"
+  },
+  {
+    "90": 1,
+    "jour": "10/8/2022",
+    "titre": "Sound design",
+    "description": "--",
+    "formateur": "Michel Grigorakis"
+  },
+  {
+    "90": 1,
+    "jour": "11/8/2022",
+    "titre": "Sound design",
+    "description": "--",
+    "formateur": "Michel Grigorakis"
+  },
+  {
+    "90": 1,
+    "jour": "12/8/2022",
+    "titre": "Sound design",
+    "description": "--",
+    "formateur": "Michel Grigorakis"
+  },
+  {
+    "90": "",
+    "jour": "13/8/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "14/8/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "15/8/2022",
+    "titre": "-- Ascension",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "16/8/2022",
+    "titre": "Self-study",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "17/8/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "-",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": 1,
+    "jour": "18/8/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "-",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": 1,
+    "jour": "19/8/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "-",
+    "formateur": "Sylvain Nyssens"
+  },
+  {
+    "90": "",
+    "jour": "20/8/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "21/8/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 0,
+    "jour": "22/8/2022",
+    "titre": "Suivi Florence",
+    "description": "",
+    "formateur": "--"
+  },
+  {
+    "90": 1,
+    "jour": "23/8/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "-",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": "",
+    "jour": "24/8/2022",
+    "titre": "Self-study",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "25/8/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "-",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": "",
+    "jour": "26/8/2022",
+    "titre": "Self-study",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "27/8/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "28/8/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "29/8/2022",
+    "titre": "Self-study",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "30/8/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "-",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": 1,
+    "jour": "31/8/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "-",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": "",
+    "jour": "1/9/2022",
+    "titre": "Self-study",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "2/9/2022",
+    "titre": "Self-study",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "3/9/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "4/9/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "5/9/2022",
+    "titre": "Self-study",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "6/9/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "-",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": 1,
+    "jour": "7/9/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "-",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": "",
+    "jour": "8/9/2022",
+    "titre": "Self-study",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "9/9/2022",
+    "titre": "Self-study",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "10/9/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "11/9/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "12/9/2022",
+    "titre": "Suivi Florence",
+    "description": "",
+    "formateur": "--"
+  },
+  {
+    "90": 1,
+    "jour": "13/9/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "-",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": 1,
+    "jour": "14/9/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "-",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": "",
+    "jour": "15/9/2022",
+    "titre": "Self-study",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "16/9/2022",
+    "titre": "Self-study",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "17/9/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "18/9/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "19/9/2022",
+    "titre": "Self-study",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "20/9/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "-",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": 1,
+    "jour": "21/9/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "-",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": "",
+    "jour": "22/9/2022",
+    "titre": "Self-study",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "23/9/2022",
+    "titre": "Self-study",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "24/9/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "25/9/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "26/9/2022",
+    "titre": "Self-study",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "27/9/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "-",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": 1,
+    "jour": "28/9/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "-",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": "",
+    "jour": "29/9/2022",
+    "titre": "Self-study",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "30/9/2022",
+    "titre": "Self-study",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "1/10/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "2/10/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "3/10/2022",
+    "titre": "Self-study",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": 1,
+    "jour": "4/10/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "-",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": 1,
+    "jour": "5/10/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "-",
+    "formateur": "Antoine Petit"
+  },
+  {
+    "90": "",
+    "jour": "6/10/2022",
+    "titre": "Self-study",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "7/10/2022",
+    "titre": "Self-study",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "8/10/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "9/10/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "10/10/2022",
+    "titre": "Pitch - Anglais",
+    "description": "-",
+    "formateur": "Alice Abels"
+  },
+  {
+    "90": 1,
+    "jour": "11/10/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "-",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": "",
+    "jour": "12/10/2022",
+    "titre": "Pitch - Anglais",
+    "description": "-",
+    "formateur": "Alice Abels"
+  },
+  {
+    "90": 1,
+    "jour": "13/10/2022",
+    "titre": "Gestion de production Gaming",
+    "description": "-",
+    "formateur": "Maude L'hoir"
+  },
+  {
+    "90": "",
+    "jour": "14/10/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "15/10/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "16/10/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "17/10/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "18/10/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "19/10/2022",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  }
+]
