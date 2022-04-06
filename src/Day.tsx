@@ -1,8 +1,6 @@
 import { useEffect } from 'react';
 import'./Day.html';
 
-const weekday = ['Dimanche', 'Lundi', 'Mardi', 'Mercredi', 'Jeudi', 'Vendredi', 'Samedi'];
-
 export function Day(props:{datas:{id:number, day:string, label:string, teacher:string, description:string}, currentDay:boolean, scrollTo:boolean})
 {
     let state:string='', margin:string = '';
@@ -14,7 +12,7 @@ export function Day(props:{datas:{id:number, day:string, label:string, teacher:s
     if(values_dates.length > 0)
     {
         date = new Date(Number(values_dates[2]), Number(values_dates[1])-1, Number(values_dates[0]));
-        state = date.getUTCDay() == 5 || date.getUTCDay() == 6 ? 'bg-dark' : props.datas.label.substring(0,2) == '--' ? 'bg-warning' : 'bg-secondary';
+        state = date.getUTCDay() === 5 || date.getUTCDay() === 6 ? 'bg-dark' : props.datas.label.substring(0,2) === '--' ? 'bg-warning' : 'bg-secondary';
 
         switch(date.getUTCDay())
         {
@@ -51,7 +49,7 @@ export function Day(props:{datas:{id:number, day:string, label:string, teacher:s
         if(props.scrollTo)
         {
             let location = window.location;
-            location.href = '#' + 'WeekToScroll';
+            location.href = '#WeekToScroll';
         }
     }
 }

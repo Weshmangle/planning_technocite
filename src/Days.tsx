@@ -1,11 +1,9 @@
-import { prototype } from "stream";
 import { Day } from "./Day";
-
 
 function dateStringToDate(dateString:string):Date | undefined
 {
     const dateSplit = dateString.split('/');
-    return dateSplit.length == 3 ? new Date(Number(dateSplit[2]), Number(dateSplit[1])-1, Number(dateSplit[0])) : undefined;
+    return dateSplit.length === 3 ? new Date(Number(dateSplit[2]), Number(dateSplit[1])-1, Number(dateSplit[0])) : undefined;
 }
 
 export function Days(props:{days:any})
@@ -24,10 +22,10 @@ export function Days(props:{days:any})
             let today = new Date();
             today.setHours(0, 0, 0, 0);
 
-            let isCurrentDay = today.getTime() == currentDate?.getTime();
+            let isCurrentDay = today.getTime() === currentDate?.getTime();
             
             today.setDate(today.getDate() - today.getDay() -1 );
             
-            return <Day datas={datas} key={index} currentDay={isCurrentDay} scrollTo={today.getTime() == currentDate?.getTime()}></Day>;
+            return <Day datas={datas} key={index} currentDay={isCurrentDay} scrollTo={today.getTime() === currentDate?.getTime()}></Day>;
         });
 }
