@@ -21,15 +21,28 @@ function App()
     return (
         <div className='container'>
             <div className='container p-5 my-5 border'> <h1> Planning DEV </h1> </div>
-            <div id='days'>
-                <div className='list-group'>
+                <div className='row'>
+                    <div className='col-12 bg-secondary rounded'> </div>
+                </div>
+                <div id='days' className='row'>
+                    <div className='col-1'> </div>
+                    <div className='col-10'>
                     {
-
                         days.map((day:any, index:number)=>
                         {
-                            return (<Day datas={{day : day['jour'], label : day['Intitulé Bdc'], teacher :day['Formateur']}} key={index}></Day>);
+                            let datas = {
+                                id: index,
+                                day : day['jour'],
+                                label : day['Intitulé Bdc'],
+                                teacher :day['Formateur'],
+                                description:day['Developpeurs']
+                            };
+                            
+                            return <Day datas={datas} key={index}></Day>;
                         })
                     }
+                    </div>
+                    <div className='col-1'> </div>
                 </div>
                 <div className="btn-group container p-5 my-5 text-center">
                     <div className="col-sm-4">
@@ -40,7 +53,6 @@ function App()
                         <button type="button" className="btn btn-secondary p-4" onClick={e => clickButtonNextWeek()}> <i className="fa-solid fa-caret-right"></i> </button>
                     </div>
                 </div> 
-            </div>
         </div>);
 
     function clickButtonNextWeek()
