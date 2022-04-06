@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { Day } from './Day';
+import { Days } from './Days';
 import APIDatas from './service/APIDatas';
 
 const api = new APIDatas('./csvjson.json', 'fr');
@@ -26,22 +27,7 @@ function App()
                 </div>
                 <div id='days' className='row'>
                     <div className='col-1'> </div>
-                    <div className='col-10'>
-                    {
-                        days.map((day:any, index:number)=>
-                        {
-                            let datas = {
-                                id: index,
-                                day : day['jour'],
-                                label : day['Intitulé Bdc'],
-                                teacher :day['Formateur'],
-                                description:day['Developpeurs']
-                            };
-                            
-                            return <Day datas={datas} key={index}></Day>;
-                        })
-                    }
-                    </div>
+                    <div className='col-10'> <Days days={days}/> </div>
                     <div className='col-1'> </div>
                 </div>
                 <div className="btn-group container p-5 my-5 text-center">

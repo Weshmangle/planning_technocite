@@ -3,7 +3,7 @@ import'./Day.html';
 
 const weekday = ['Dimanche', 'Lundi', 'Mardi', 'Mercredi', 'Jeudi', 'Vendredi', 'Samedi'];
 
-export function Day(props:{datas:{id:number, day:string, label:string, teacher:string, description:string}})
+export function Day(props:{datas:{id:number, day:string, label:string, teacher:string, description:string}, currentDay:boolean, scrollTo:boolean})
 {
     let state:string='', margin:string = '';
     let date:Date;
@@ -30,14 +30,14 @@ export function Day(props:{datas:{id:number, day:string, label:string, teacher:s
         }
     }
 
-    return <div className={`card ${margin}`}  id={idAnchor()}>
+    return <div className={`card ${margin}`}  id={props.scrollTo ? 'WeekToScroll' : undefined}>
                 <a className="text-decoration-none" data-bs-toggle="collapse" href={'#collapse_' + props.datas.id}>
                     <div className={`card-header ${state} text-white p-4 `}>
                         <div className='row'>
                             <div className='col-sm-2'> {props.datas.day} </div>
                             <div className='col-sm-7 fw-bold'> {props.datas.label} </div>
                             <div className='col-sm-2'> {props.datas.teacher} </div>
-                            <div className='col-sm-1'> {idAnchor() ? <span className="badge bg-info"> Today</span> : undefined} </div>
+                            <div className='col-sm-1'> {props.currentDay ? <span className="badge bg-info"> Today</span> : undefined} </div>
                         </div>
                     </div>
                 </a>  
@@ -45,19 +45,13 @@ export function Day(props:{datas:{id:number, day:string, label:string, teacher:s
                 <div className="card-body"> {props.datas.description} </div>
                 </div>
             </div>;
-
-        
-    function idAnchor()
-    {
-        return new Date().getDate() == date.getDate() ? 'CurrentDay' : undefined;
-    }
     
     function RefreshAnchor()
     {
-        if(idAnchor())
+        if(props.scrollTo)
         {
             let location = window.location;
-            location.href = '#' + 'CurrentDay';
+            location.href = '#' + 'WeekToScroll';
         }
     }
 }
