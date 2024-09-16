@@ -1,1540 +1,532 @@
 [
   {
-    "90": 0,
-    "jour": "14/3/2022",
-    "titre": "Jour d'accueil",
-    "description": "---",
-    "formateur": "---"
+    "90": "",
+    "jour": "16/09/2024",
+    "titre": "Unity 3D",
+    "description": "Week 1: Unity 3D with Arnaud Jopart",
+    "formateur": "Arnaud Jopart"
   },
   {
     "90": "",
-    "jour": "15/3/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 1,
-    "jour": "16/3/2022",
-    "titre": "La communication dans le milieu du gaming",
-    "description": "- Outils (comment et quoi communiquer)\n- Les qualités d'un bon trailer\n- Cadeaux de communication\n- Comment devenir une personne publique (veille et bonne exploitation des réseaux sociaux)\n- Contact presse & youtubers\n- Steam (préparation des supports de communication, fonctionnement du backend, et.)\n- Events, awards, contests\n- Timing (com schedule)",
-    "formateur": "Sophie Schiaratura"
-  },
-  {
-    "90": 1,
-    "jour": "17/3/2022",
-    "titre": "Gaming - Game designer",
-    "description": "Journée d'initiation au métier de game designer:\n- Le rôle du game designer\n- Le game design\n- Les outils du game designer\n- Comment dialoguer efficacement avec un game designer en tant que programmeur ?",
-    "formateur": "Hugo Bourbon"
-  },
-  {
-    "90": 1,
-    "jour": "18/3/2022",
-    "titre": "Level Designer",
-    "description": "- Rôle du level designer\n- Cas concret : Présentation du jeu Shift Quantum \n- Qu’est-ce qui caractèrise un niveau de Shift Quantum (intentions) \n- Test des différents blocs utilisés dans le LD \n- Exercice: Création de niveaux \n- Tests des niveaux",
-    "formateur": "Fabrice Daniel"
+    "jour": "17/09/2024",
+    "titre": "Unity 3D",
+    "description": "Week 1: Unity 3D with Arnaud Jopart",
+    "formateur": "Arnaud Jopart"
   },
   {
     "90": "",
-    "jour": "19/3/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
+    "jour": "18/09/2024",
+    "titre": "Unity 3D",
+    "description": "Week 1: Unity 3D with Arnaud Jopart",
+    "formateur": "Arnaud Jopart"
   },
   {
     "90": "",
-    "jour": "20/3/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 1,
-    "jour": "21/3/2022",
-    "titre": "Graphiste 2D Gaming",
-    "description": "- Initiation au métier de 2D game artist",
-    "formateur": "Antoine Petit"
-  },
-  {
-    "90": 1,
-    "jour": "22/3/2022",
-    "titre": "Graphiste 3D Gaming",
-    "description": "- Initiation au métier de 3D game artist",
-    "formateur": "Maude L'hoir"
-  },
-  {
-    "90": 1,
-    "jour": "23/3/2022",
-    "titre": "Histoire du jeu vidéo et concepts",
-    "description": "",
-    "formateur": "Alexandre Wyns"
-  },
-  {
-    "90": 0,
-    "jour": "24/3/2022",
-    "titre": "Histoire du jeu vidéo et concepts",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 0,
-    "jour": "25/3/2022",
-    "titre": "L'industrie du jeu vidéo",
-    "description": "- Etat de l'industrie du jeu vidéo dans le monde\n- Etat de l'industrie du jeu vidéo en Belgique\n- Présentations de quelques studios belges\n- Présentations d'acteurs de l'écosystème belge\n- Différentes écoles et centres de formations\n- Les principaux événements\n- Le parcours du jeune dev indé belge\n- Et pourquoi pas vous?",
-    "formateur": ""
+    "jour": "19/09/2024",
+    "titre": "Unity 3D",
+    "description": "Week 1: Unity 3D with Arnaud Jopart",
+    "formateur": "Arnaud Jopart"
   },
   {
     "90": "",
-    "jour": "26/3/2022",
+    "jour": "20/09/2024",
+    "titre": "Unity 3D",
+    "description": "Week 1: Unity 3D with Arnaud Jopart",
+    "formateur": "Arnaud Jopart"
+  },
+  {
+    "90": "",
+    "jour": "21/09/2024",
     "titre": "",
     "description": "",
     "formateur": ""
   },
   {
     "90": "",
-    "jour": "27/3/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 1,
-    "jour": "28/3/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "- Initiation aux jeux de société modernes",
-    "formateur": "Fabrice Daniel"
-  },
-  {
-    "90": 0,
-    "jour": "29/3/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 0,
-    "jour": "30/3/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 1,
-    "jour": "31/3/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "- Initiation aux jeux de société modernes",
-    "formateur": "Hugo Bourbon"
-  },
-  {
-    "90": 0,
-    "jour": "1/4/2022",
+    "jour": "22/09/2024",
     "titre": "",
     "description": "",
     "formateur": ""
   },
   {
     "90": "",
-    "jour": "2/4/2022",
+    "jour": "23/09/2024",
+    "titre": "Unity 3D",
+    "description": "Week 2: Unity 3D with Arnaud Jopart",
+    "formateur": "Arnaud Jopart"
+  },
+  {
+    "90": "",
+    "jour": "24/09/2024",
+    "titre": "Unity 3D",
+    "description": "Week 2: Unity 3D with Arnaud Jopart",
+    "formateur": "Arnaud Jopart"
+  },
+  {
+    "90": "",
+    "jour": "25/09/2024",
+    "titre": "Unity 3D",
+    "description": "Week 2: Unity 3D with Arnaud Jopart",
+    "formateur": "Arnaud Jopart"
+  },
+  {
+    "90": "",
+    "jour": "26/09/2024",
+    "titre": "Unity 3D",
+    "description": "Week 2: Unity 3D with Arnaud Jopart",
+    "formateur": "Arnaud Jopart"
+  },
+  {
+    "90": "",
+    "jour": "27/09/2024",
+    "titre": "Unity 3D",
+    "description": "Week 2: Unity 3D with Arnaud Jopart",
+    "formateur": "Arnaud Jopart"
+  },
+  {
+    "90": "",
+    "jour": "28/09/2024",
     "titre": "",
     "description": "",
     "formateur": ""
   },
   {
     "90": "",
-    "jour": "3/4/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 0,
-    "jour": "4/4/2022",
-    "titre": "Suivi Florence",
-    "description": "--",
-    "formateur": "--"
-  },
-  {
-    "90": 1,
-    "jour": "5/4/2022",
-    "titre": "Unity 3D",
-    "description": "Introduction à Unity, C#, Git, \"new\" prefab system",
-    "formateur": "Ambroise Gram"
-  },
-  {
-    "90": 1,
-    "jour": "6/4/2022",
-    "titre": "Unity 3D",
-    "description": "Introduction à Unity, C#, Git, \"new\" prefab system",
-    "formateur": "Ambroise Gram"
-  },
-  {
-    "90": 1,
-    "jour": "7/4/2022",
-    "titre": "Unity 3D",
-    "description": "Introduction à Unity, C#, Git, \"new\" prefab system",
-    "formateur": "Ambroise Gram"
-  },
-  {
-    "90": 1,
-    "jour": "8/4/2022",
-    "titre": "Unity 3D",
-    "description": "Introduction à Unity, C#, Git, \"new\" prefab system",
-    "formateur": "Ambroise Gram"
-  },
-  {
-    "90": "",
-    "jour": "9/4/2022",
+    "jour": "29/09/2024",
     "titre": "",
     "description": "",
     "formateur": ""
   },
   {
     "90": "",
-    "jour": "10/4/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 1,
-    "jour": "11/4/2022",
+    "jour": "30/09/2024",
     "titre": "Unity 3D",
-    "description": "Animation et Animator en 2D et 3D, Character Controller c#, Cinemachine et Timeline",
-    "formateur": "Cherif Younis"
-  },
-  {
-    "90": 1,
-    "jour": "12/4/2022",
-    "titre": "Unity 3D",
-    "description": "Animation et Animator en 2D et 3D, Character Controller c#, Cinemachine et Timeline",
-    "formateur": "Cherif Younis"
-  },
-  {
-    "90": 1,
-    "jour": "13/4/2022",
-    "titre": "Unity 3D",
-    "description": "Animation et Animator en 2D et 3D, Character Controller c#, Cinemachine et Timeline",
-    "formateur": "Cherif Younis"
-  },
-  {
-    "90": 1,
-    "jour": "14/4/2022",
-    "titre": "Unity 3D",
-    "description": "Animation et Animator en 2D et 3D, Character Controller c#, Cinemachine et Timeline",
-    "formateur": "Cherif Younis"
-  },
-  {
-    "90": 1,
-    "jour": "15/4/2022",
-    "titre": "Unity 3D",
-    "description": "Animation et Animator en 2D et 3D, Character Controller c#, Cinemachine et Timeline",
-    "formateur": "Cherif Younis"
+    "description": "Week 3: Unity 3D with Corentin De Clercq",
+    "formateur": "Corentin De Clercq"
   },
   {
     "90": "",
-    "jour": "16/4/2022",
+    "jour": "01/10/2024",
+    "titre": "Unity 3D",
+    "description": "Week 3: Unity 3D with Corentin De Clercq",
+    "formateur": "Corentin De Clercq"
+  },
+  {
+    "90": "",
+    "jour": "02/10/2024",
+    "titre": "Unity 3D",
+    "description": "Week 3: Unity 3D with Corentin De Clercq",
+    "formateur": "Corentin De Clercq"
+  },
+  {
+    "90": "",
+    "jour": "03/10/2024",
+    "titre": "Unity 3D",
+    "description": "Week 3: Unity 3D with Corentin De Clercq",
+    "formateur": "Corentin De Clercq"
+  },
+  {
+    "90": "",
+    "jour": "04/10/2024",
+    "titre": "Unity 3D",
+    "description": "Week 3: Unity 3D with Corentin De Clercq",
+    "formateur": "Corentin De Clercq"
+  },
+  {
+    "90": "",
+    "jour": "05/10/2024",
     "titre": "",
     "description": "",
     "formateur": ""
   },
   {
     "90": "",
-    "jour": "17/4/2022",
+    "jour": "06/10/2024",
     "titre": "",
     "description": "",
     "formateur": ""
   },
   {
     "90": "",
-    "jour": "18/4/2022",
-    "titre": "-- Pâques",
-    "description": "",
-    "formateur": ""
+    "jour": "07/10/2024",
+    "titre": "Unity 3D",
+    "description": "Week 4: Unity 3D with Corentin De Clercq",
+    "formateur": "Corentin De Clercq"
   },
   {
     "90": "",
-    "jour": "19/4/2022",
-    "titre": "-- Pâques",
-    "description": "",
-    "formateur": ""
+    "jour": "08/10/2024",
+    "titre": "Unity 3D",
+    "description": "Week 4: Unity 3D with Corentin De Clercq",
+    "formateur": "Corentin De Clercq"
   },
   {
     "90": "",
-    "jour": "20/4/2022",
-    "titre": "-- Pâques",
-    "description": "",
-    "formateur": ""
+    "jour": "09/10/2024",
+    "titre": "Unity 3D",
+    "description": "Week 4: Unity 3D with Corentin De Clercq",
+    "formateur": "Corentin De Clercq"
   },
   {
     "90": "",
-    "jour": "21/4/2022",
-    "titre": "-- Pâques",
-    "description": "",
-    "formateur": ""
+    "jour": "10/10/2024",
+    "titre": "Unity 3D",
+    "description": "Week 4: Unity 3D with Corentin De Clercq",
+    "formateur": "Corentin De Clercq"
   },
   {
     "90": "",
-    "jour": "22/4/2022",
-    "titre": "-- Pâques",
-    "description": "",
-    "formateur": ""
+    "jour": "11/10/2024",
+    "titre": "Unity 3D",
+    "description": "Week 4: Unity 3D with Corentin De Clercq",
+    "formateur": "Corentin De Clercq"
   },
   {
     "90": "",
-    "jour": "23/4/2022",
+    "jour": "12/10/2024",
     "titre": "",
     "description": "",
     "formateur": ""
   },
   {
     "90": "",
-    "jour": "24/4/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 1,
-    "jour": "25/4/2022",
-    "titre": "Unity 3D",
-    "description": "Audio interactif",
-    "formateur": "Cherif Younis"
-  },
-  {
-    "90": 1,
-    "jour": "26/4/2022",
-    "titre": "Unity 3D",
-    "description": "Audio interactif",
-    "formateur": "Cherif Younis"
-  },
-  {
-    "90": 1,
-    "jour": "27/4/2022",
-    "titre": "Unity 3D",
-    "description": "Audio interactif",
-    "formateur": "Cherif Younis"
-  },
-  {
-    "90": 1,
-    "jour": "28/4/2022",
-    "titre": "Unity 3D",
-    "description": "Audio interactif",
-    "formateur": "Cherif Younis"
-  },
-  {
-    "90": "",
-    "jour": "29/4/2022",
-    "titre": "Self-study",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "30/4/2022",
+    "jour": "13/10/2024",
     "titre": "",
     "description": "",
     "formateur": ""
   },
   {
     "90": "",
-    "jour": "1/5/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 0,
-    "jour": "2/5/2022",
-    "titre": "Suivi Florence",
-    "description": "--",
-    "formateur": "--"
-  },
-  {
-    "90": 1,
-    "jour": "3/5/2022",
+    "jour": "14/10/2024",
     "titre": "Unity 3D",
-    "description": "Jeu basé sur la physique et Unit Tests",
-    "formateur": "Ambroise Gram"
-  },
-  {
-    "90": 1,
-    "jour": "4/5/2022",
-    "titre": "Unity 3D",
-    "description": "Jeu basé sur la physique et Unit Tests",
-    "formateur": "Ambroise Gram"
-  },
-  {
-    "90": 1,
-    "jour": "5/5/2022",
-    "titre": "Unity 3D",
-    "description": "Jeu basé sur la physique et Unit Tests",
-    "formateur": "Ambroise Gram"
-  },
-  {
-    "90": 1,
-    "jour": "6/5/2022",
-    "titre": "Unity 3D",
-    "description": "Jeu basé sur la physique et Unit Tests",
-    "formateur": "Ambroise Gram"
+    "description": "Week 5: Unity 3D with Arnaud Jopart",
+    "formateur": "Arnaud Jopart"
   },
   {
     "90": "",
-    "jour": "7/5/2022",
+    "jour": "15/10/2024",
+    "titre": "Unity 3D",
+    "description": "Week 5: Unity 3D with Arnaud Jopart",
+    "formateur": "Arnaud Jopart"
+  },
+  {
+    "90": "",
+    "jour": "16/10/2024",
+    "titre": "Unity 3D",
+    "description": "Week 5: Unity 3D with Arnaud Jopart",
+    "formateur": "Arnaud Jopart"
+  },
+  {
+    "90": "",
+    "jour": "17/10/2024",
+    "titre": "Unity 3D",
+    "description": "Week 5: Unity 3D with Arnaud Jopart",
+    "formateur": "Arnaud Jopart"
+  },
+  {
+    "90": "",
+    "jour": "18/10/2024",
+    "titre": "Unity 3D",
+    "description": "Week 5: Unity 3D with Arnaud Jopart",
+    "formateur": "Arnaud Jopart"
+  },
+  {
+    "90": "",
+    "jour": "19/10/2024",
     "titre": "",
     "description": "",
     "formateur": ""
   },
   {
     "90": "",
-    "jour": "8/5/2022",
+    "jour": "20/10/2024",
     "titre": "",
     "description": "",
     "formateur": ""
   },
   {
     "90": "",
-    "jour": "9/5/2022",
-    "titre": "Self-study",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 1,
-    "jour": "10/5/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "Gamejam",
-    "formateur": "Ambroise Gram"
-  },
-  {
-    "90": 1,
-    "jour": "11/5/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "Gamejam",
-    "formateur": "Ambroise Gram"
-  },
-  {
-    "90": 1,
-    "jour": "12/5/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "Gamejam",
-    "formateur": "Ambroise Gram"
-  },
-  {
-    "90": 1,
-    "jour": "13/5/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "Gamejam",
-    "formateur": "Ambroise Gram"
+    "jour": "21/10/2024",
+    "titre": "Method agile dans le gaming",
+    "description": "Week 6: Method agile dans le gaming with Thomas Wostyn",
+    "formateur": "Thomas Wostyn"
   },
   {
     "90": "",
-    "jour": "14/5/2022",
+    "jour": "22/10/2024",
+    "titre": "Method agile dans le gaming",
+    "description": "Week 6: Method agile dans le gaming with Thomas Wostyn",
+    "formateur": "Thomas Wostyn"
+  },
+  {
+    "90": "",
+    "jour": "23/10/2024",
+    "titre": "Method agile dans le gaming",
+    "description": "Week 6: Method agile dans le gaming with Thomas Wostyn",
+    "formateur": "Thomas Wostyn"
+  },
+  {
+    "90": "",
+    "jour": "24/10/2024",
+    "titre": "Method agile dans le gaming",
+    "description": "Week 6: Method agile dans le gaming with Thomas Wostyn",
+    "formateur": "Thomas Wostyn"
+  },
+  {
+    "90": "",
+    "jour": "25/10/2024",
+    "titre": "Method agile dans le gaming",
+    "description": "Week 6: Method agile dans le gaming with Thomas Wostyn",
+    "formateur": "Thomas Wostyn"
+  },
+  {
+    "90": "",
+    "jour": "26/10/2024",
     "titre": "",
     "description": "",
     "formateur": ""
   },
   {
     "90": "",
-    "jour": "15/5/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 1,
-    "jour": "16/5/2022",
-    "titre": "Unity 3D",
-    "description": "Shader, Lighting Rendering",
-    "formateur": "Cherif Younis"
-  },
-  {
-    "90": 1,
-    "jour": "17/5/2022",
-    "titre": "Unity 3D",
-    "description": "Shader, Lighting Rendering",
-    "formateur": "Cherif Younis"
-  },
-  {
-    "90": 1,
-    "jour": "18/5/2022",
-    "titre": "Unity 3D",
-    "description": "Shader, Lighting Rendering",
-    "formateur": "Cherif Younis"
-  },
-  {
-    "90": 1,
-    "jour": "19/5/2022",
-    "titre": "Unity 3D",
-    "description": "URP / HDRP",
-    "formateur": "Cherif Younis"
-  },
-  {
-    "90": 0,
-    "jour": "20/5/2022",
-    "titre": "Suivi Florence",
-    "description": "--",
-    "formateur": "--"
-  },
-  {
-    "90": "",
-    "jour": "21/5/2022",
+    "jour": "27/10/2024",
     "titre": "",
     "description": "",
     "formateur": ""
   },
   {
     "90": "",
-    "jour": "22/5/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 1,
-    "jour": "23/5/2022",
-    "titre": "Unity 3D",
-    "description": "AI",
-    "formateur": "Cherif Younis"
-  },
-  {
-    "90": 1,
-    "jour": "24/5/2022",
-    "titre": "Unity 3D",
-    "description": "AI",
-    "formateur": "Cherif Younis"
-  },
-  {
-    "90": 1,
-    "jour": "25/5/2022",
-    "titre": "Unity 3D",
-    "description": "AI",
-    "formateur": "Cherif Younis"
-  },
-  {
-    "90": 0,
-    "jour": "26/5/2022",
-    "titre": "-- Ascension",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 0,
-    "jour": "27/5/2022",
-    "titre": "-- Pont",
-    "description": "",
-    "formateur": ""
+    "jour": "28/10/2024",
+    "titre": "Method agile dans le gaming",
+    "description": "Week 7: Method agile dans le gaming with Thomas Wostyn",
+    "formateur": "Thomas Wostyn"
   },
   {
     "90": "",
-    "jour": "28/5/2022",
+    "jour": "29/10/2024",
+    "titre": "Method agile dans le gaming",
+    "description": "Week 7: Method agile dans le gaming with Thomas Wostyn",
+    "formateur": "Thomas Wostyn"
+  },
+  {
+    "90": "",
+    "jour": "30/10/2024",
+    "titre": "Method agile dans le gaming",
+    "description": "Week 7: Method agile dans le gaming with Thomas Wostyn",
+    "formateur": "Thomas Wostyn"
+  },
+  {
+    "90": "",
+    "jour": "31/10/2024",
+    "titre": "Method agile dans le gaming",
+    "description": "Week 7: Method agile dans le gaming with Thomas Wostyn",
+    "formateur": "Thomas Wostyn"
+  },
+  {
+    "90": "",
+    "jour": "01/11/2024",
+    "titre": "Method agile dans le gaming",
+    "description": "Week 7: Method agile dans le gaming with Thomas Wostyn",
+    "formateur": "Thomas Wostyn"
+  },
+  {
+    "90": "",
+    "jour": "02/11/2024",
     "titre": "",
     "description": "",
     "formateur": ""
   },
   {
     "90": "",
-    "jour": "29/5/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 0,
-    "jour": "30/5/2022",
-    "titre": "Cours d'anglais",
-    "description": "",
-    "formateur": "Alice Abels"
-  },
-  {
-    "90": 1,
-    "jour": "31/5/2022",
-    "titre": "Unity 3D",
-    "description": "Canvas and UI",
-    "formateur": "Ambroise Gram"
-  },
-  {
-    "90": 1,
-    "jour": "1/6/2022",
-    "titre": "Unity 3D",
-    "description": "Canvas and UI",
-    "formateur": "Ambroise Gram"
-  },
-  {
-    "90": 1,
-    "jour": "2/6/2022",
-    "titre": "Unity 3D",
-    "description": "Canvas and UI",
-    "formateur": "Ambroise Gram"
-  },
-  {
-    "90": 1,
-    "jour": "3/6/2022",
-    "titre": "Unity 3D",
-    "description": "Canvas and UI",
-    "formateur": "Ambroise Gram"
-  },
-  {
-    "90": "",
-    "jour": "4/6/2022",
+    "jour": "03/11/2024",
     "titre": "",
     "description": "",
     "formateur": ""
   },
   {
     "90": "",
-    "jour": "5/6/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 0,
-    "jour": "6/6/2022",
-    "titre": "-- Pentecôte",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 0,
-    "jour": "7/6/2022",
-    "titre": "Cours d'anglais",
-    "description": "",
-    "formateur": "Alice Abels"
-  },
-  {
-    "90": 1,
-    "jour": "8/6/2022",
+    "jour": "04/11/2024",
     "titre": "Unity 3D",
-    "description": "Multiplayer",
-    "formateur": "Ambroise Gram"
-  },
-  {
-    "90": 1,
-    "jour": "9/6/2022",
-    "titre": "Unity 3D",
-    "description": "Multiplayer",
-    "formateur": "Ambroise Gram"
-  },
-  {
-    "90": 1,
-    "jour": "10/6/2022",
-    "titre": "Unity 3D",
-    "description": "Multiplayer",
-    "formateur": "Ambroise Gram"
-  },
-  {
-    "90": "",
-    "jour": "11/6/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "12/6/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 0,
-    "jour": "13/6/2022",
-    "titre": "Récupération du Doudou",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 0,
-    "jour": "14/6/2022",
-    "titre": "Suivi Florence",
-    "description": "--",
-    "formateur": "--"
-  },
-  {
-    "90": 1,
-    "jour": "15/6/2022",
-    "titre": "Unity 3D",
-    "description": "Custom Editor creation - Automatisation",
-    "formateur": "Cherif Younis"
-  },
-  {
-    "90": 1,
-    "jour": "16/6/2022",
-    "titre": "Unity 3D",
-    "description": "Custom Editor creation - Automatisation",
-    "formateur": "Cherif Younis"
-  },
-  {
-    "90": 1,
-    "jour": "17/6/2022",
-    "titre": "Unity 3D",
-    "description": "Custom Editor creation - Automatisation",
+    "description": "Week 8: Unity 3D with Cherif Younis",
     "formateur": "Cherif Younis"
   },
   {
     "90": "",
-    "jour": "18/6/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "19/6/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 1,
-    "jour": "20/6/2022",
+    "jour": "05/11/2024",
     "titre": "Unity 3D",
-    "description": "Scriptable Object Architecture",
+    "description": "Week 8: Unity 3D with Cherif Younis",
     "formateur": "Cherif Younis"
   },
   {
-    "90": 1,
-    "jour": "21/6/2022",
+    "90": "",
+    "jour": "06/11/2024",
     "titre": "Unity 3D",
-    "description": "Scriptable Object Architecture",
+    "description": "Week 8: Unity 3D with Cherif Younis",
     "formateur": "Cherif Younis"
   },
   {
-    "90": 1,
-    "jour": "22/6/2022",
+    "90": "",
+    "jour": "07/11/2024",
     "titre": "Unity 3D",
-    "description": "Scriptable Object Architecture",
+    "description": "Week 8: Unity 3D with Cherif Younis",
     "formateur": "Cherif Younis"
   },
   {
-    "90": 1,
-    "jour": "23/6/2022",
+    "90": "",
+    "jour": "08/11/2024",
     "titre": "Unity 3D",
-    "description": "Scriptable Object Architecture",
+    "description": "Week 8: Unity 3D with Cherif Younis",
     "formateur": "Cherif Younis"
   },
   {
-    "90": 0,
-    "jour": "24/6/2022",
-    "titre": "Cours d'anglais",
-    "description": "",
-    "formateur": "Alice Abels"
-  },
-  {
     "90": "",
-    "jour": "25/6/2022",
+    "jour": "09/11/2024",
     "titre": "",
     "description": "",
     "formateur": ""
   },
   {
     "90": "",
-    "jour": "26/6/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 0,
-    "jour": "27/6/2022",
-    "titre": "Cours d'anglais",
-    "description": "",
-    "formateur": "Alice Abels"
-  },
-  {
-    "90": 1,
-    "jour": "28/6/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "Gamejam",
-    "formateur": "Ambroise Gram"
-  },
-  {
-    "90": 1,
-    "jour": "29/6/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "Gamejam",
-    "formateur": "Ambroise Gram"
-  },
-  {
-    "90": 1,
-    "jour": "30/6/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "Gamejam",
-    "formateur": "Ambroise Gram"
-  },
-  {
-    "90": 1,
-    "jour": "1/7/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "Gamejam",
-    "formateur": "Ambroise Gram"
-  },
-  {
-    "90": "",
-    "jour": "2/7/2022",
+    "jour": "10/11/2024",
     "titre": "",
     "description": "",
     "formateur": ""
   },
   {
     "90": "",
-    "jour": "3/7/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 0,
-    "jour": "4/7/2022",
-    "titre": "Cours d'anglais",
-    "description": "",
-    "formateur": "Alice Abels"
-  },
-  {
-    "90": 0,
-    "jour": "5/7/2022",
-    "titre": "Cours d'anglais",
-    "description": "",
-    "formateur": "Alice Abels"
-  },
-  {
-    "90": 0,
-    "jour": "6/7/2022",
-    "titre": "Cours d'anglais",
-    "description": "",
-    "formateur": "Alice Abels"
-  },
-  {
-    "90": 1,
-    "jour": "7/7/2022",
+    "jour": "11/11/2024",
     "titre": "Unity 3D",
-    "description": "System production ( Localisation / Asset Pipeline / Etc )",
+    "description": "Week 9: Unity 3D with Cherif Younis",
     "formateur": "Cherif Younis"
   },
   {
-    "90": 1,
-    "jour": "8/7/2022",
+    "90": "",
+    "jour": "12/11/2024",
     "titre": "Unity 3D",
-    "description": "System production ( Localisation / Asset Pipeline / Etc )",
+    "description": "Week 9: Unity 3D with Cherif Younis",
     "formateur": "Cherif Younis"
   },
   {
     "90": "",
-    "jour": "9/7/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "10/7/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 1,
-    "jour": "11/7/2022",
+    "jour": "13/11/2024",
     "titre": "Unity 3D",
-    "description": "-",
+    "description": "Week 9: Unity 3D with Cherif Younis",
     "formateur": "Cherif Younis"
   },
   {
-    "90": 1,
-    "jour": "12/7/2022",
+    "90": "",
+    "jour": "14/11/2024",
     "titre": "Unity 3D",
-    "description": "",
+    "description": "Week 9: Unity 3D with Cherif Younis",
     "formateur": "Cherif Younis"
   },
   {
-    "90": 1,
-    "jour": "13/7/2022",
+    "90": "",
+    "jour": "15/11/2024",
     "titre": "Unity 3D",
-    "description": "",
+    "description": "Week 9: Unity 3D with Cherif Younis",
     "formateur": "Cherif Younis"
   },
   {
-    "90": 1,
-    "jour": "14/7/2022",
+    "90": "",
+    "jour": "16/11/2024",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "17/11/2024",
+    "titre": "",
+    "description": "",
+    "formateur": ""
+  },
+  {
+    "90": "",
+    "jour": "18/11/2024",
     "titre": "Unity 3D",
-    "description": "- Certification Unity 3D",
+    "description": "Week 10: Unity 3D with Cherif Younis",
     "formateur": "Cherif Younis"
   },
   {
-    "90": 1,
-    "jour": "15/7/2022",
+    "90": "",
+    "jour": "19/11/2024",
     "titre": "Unity 3D",
-    "description": "-",
+    "description": "Week 10: Unity 3D with Cherif Younis",
     "formateur": "Cherif Younis"
   },
   {
     "90": "",
-    "jour": "16/7/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "17/7/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 1,
-    "jour": "18/7/2022",
+    "jour": "20/11/2024",
     "titre": "Unity 3D",
-    "description": "-",
+    "description": "Week 10: Unity 3D with Cherif Younis",
     "formateur": "Cherif Younis"
   },
   {
-    "90": 1,
-    "jour": "19/7/2022",
+    "90": "",
+    "jour": "21/11/2024",
     "titre": "Unity 3D",
-    "description": "-",
+    "description": "Week 10: Unity 3D with Cherif Younis",
     "formateur": "Cherif Younis"
   },
   {
-    "90": 1,
-    "jour": "20/7/2022",
+    "90": "",
+    "jour": "22/11/2024",
     "titre": "Unity 3D",
-    "description": "-",
-    "formateur": "Cherif Younis"
-  },
-  {
-    "90": 0,
-    "jour": "21/7/2022",
-    "titre": "-- Fête nationale",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 0,
-    "jour": "22/7/2022",
-    "titre": "-- Pont",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "23/7/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "24/7/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 1,
-    "jour": "25/7/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "Suivi des game concepts",
-    "formateur": "Sylvain Nyssens"
-  },
-  {
-    "90": 1,
-    "jour": "26/7/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "Suivi des game concepts",
-    "formateur": "Sylvain Nyssens"
-  },
-  {
-    "90": 1,
-    "jour": "27/7/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "Suivi des game concepts",
-    "formateur": "Sylvain Nyssens"
-  },
-  {
-    "90": 1,
-    "jour": "28/7/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "Suivi des game concepts",
-    "formateur": "Sylvain Nyssens"
-  },
-  {
-    "90": 1,
-    "jour": "29/7/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "Suivi des game concepts",
-    "formateur": "Sylvain Nyssens"
-  },
-  {
-    "90": "",
-    "jour": "30/7/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "31/7/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "1/8/2022",
-    "titre": "----- Congés",
-    "description": "----- Congés",
-    "formateur": "----- Congés"
-  },
-  {
-    "90": "",
-    "jour": "2/8/2022",
-    "titre": "----- Congés",
-    "description": "----- Congés",
-    "formateur": "----- Congés"
-  },
-  {
-    "90": "",
-    "jour": "3/8/2022",
-    "titre": "----- Congés",
-    "description": "----- Congés",
-    "formateur": "----- Congés"
-  },
-  {
-    "90": "",
-    "jour": "4/8/2022",
-    "titre": "----- Congés",
-    "description": "----- Congés",
-    "formateur": "----- Congés"
-  },
-  {
-    "90": "",
-    "jour": "5/8/2022",
-    "titre": "----- Congés",
-    "description": "----- Congés",
-    "formateur": "----- Congés"
-  },
-  {
-    "90": "",
-    "jour": "6/8/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "7/8/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "8/8/2022",
-    "titre": "----- Congés",
-    "description": "----- Congés",
-    "formateur": "----- Congés"
-  },
-  {
-    "90": "",
-    "jour": "9/8/2022",
-    "titre": "----- Congés",
-    "description": "----- Congés",
-    "formateur": "----- Congés"
-  },
-  {
-    "90": "",
-    "jour": "10/8/2022",
-    "titre": "----- Congés",
-    "description": "----- Congés",
-    "formateur": "----- Congés"
-  },
-  {
-    "90": "",
-    "jour": "11/8/2022",
-    "titre": "----- Congés",
-    "description": "----- Congés",
-    "formateur": "----- Congés"
-  },
-  {
-    "90": "",
-    "jour": "12/8/2022",
-    "titre": "----- Congés",
-    "description": "----- Congés",
-    "formateur": "----- Congés"
-  },
-  {
-    "90": "",
-    "jour": "13/8/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "14/8/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "15/8/2022",
-    "titre": "-- Ascension",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 1,
-    "jour": "16/8/2022",
-    "titre": "Kick-off",
-    "description": "-",
-    "formateur": "Cherif Younis"
-  },
-  {
-    "90": 1,
-    "jour": "17/8/2022",
-    "titre": "Kick-off",
-    "description": "-",
-    "formateur": ""
-  },
-  {
-    "90": 1,
-    "jour": "18/8/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "-",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "19/8/2022",
-    "titre": "Self-study",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "20/8/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "21/8/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "22/8/2022",
-    "titre": "Self-study",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 0,
-    "jour": "23/8/2022",
-    "titre": "Suivi Florence",
-    "description": "",
-    "formateur": "--"
-  },
-  {
-    "90": 1,
-    "jour": "24/8/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "-",
-    "formateur": "Théo Constant"
-  },
-  {
-    "90": "",
-    "jour": "25/8/2022",
-    "titre": "Self-study",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 1,
-    "jour": "26/8/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "-",
-    "formateur": "Sylvain Nyssens"
-  },
-  {
-    "90": "",
-    "jour": "27/8/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "28/8/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "29/8/2022",
-    "titre": "Self-study",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 1,
-    "jour": "30/8/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "-",
-    "formateur": "Cherif Younis"
-  },
-  {
-    "90": 1,
-    "jour": "31/8/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "-",
+    "description": "Week 10: Unity 3D with Cherif Younis",
     "formateur": "Cherif Younis"
   },
   {
     "90": "",
-    "jour": "1/9/2022",
-    "titre": "Self-study",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 1,
-    "jour": "2/9/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "-",
-    "formateur": "Hugo Bourbon"
-  },
-  {
-    "90": "",
-    "jour": "3/9/2022",
+    "jour": "23/11/2024",
     "titre": "",
     "description": "",
     "formateur": ""
   },
   {
     "90": "",
-    "jour": "4/9/2022",
+    "jour": "24/11/2024",
     "titre": "",
     "description": "",
     "formateur": ""
   },
   {
     "90": "",
-    "jour": "5/9/2022",
-    "titre": "Self-study",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "6/9/2022",
-    "titre": "Self-study",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 1,
-    "jour": "7/9/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "-",
-    "formateur": "Théo Constant"
-  },
-  {
-    "90": "",
-    "jour": "8/9/2022",
-    "titre": "Self-study",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 1,
-    "jour": "9/9/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "-",
-    "formateur": "Théo Constant"
-  },
-  {
-    "90": "",
-    "jour": "10/9/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "11/9/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "12/9/2022",
-    "titre": "Self-study",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 0,
-    "jour": "13/9/2022",
-    "titre": "Suivi Florence",
-    "description": "",
-    "formateur": "--"
-  },
-  {
-    "90": 1,
-    "jour": "14/9/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "-",
-    "formateur": "Théo Constant"
-  },
-  {
-    "90": "",
-    "jour": "15/9/2022",
-    "titre": "Self-study",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 1,
-    "jour": "16/9/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "-",
-    "formateur": "Sylvain Nyssens"
-  },
-  {
-    "90": "",
-    "jour": "17/9/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "18/9/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "19/9/2022",
-    "titre": "Self-study",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "20/9/2022",
-    "titre": "Self-study",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 1,
-    "jour": "21/9/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "-",
-    "formateur": "Théo Constant"
-  },
-  {
-    "90": "",
-    "jour": "22/9/2022",
-    "titre": "Self-study",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 1,
-    "jour": "23/9/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "-",
-    "formateur": "Théo Constant"
-  },
-  {
-    "90": "",
-    "jour": "24/9/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "25/9/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "26/9/2022",
-    "titre": "Self-study",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "27/9/2022",
-    "titre": "Self-study",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 1,
-    "jour": "28/9/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "-",
-    "formateur": "Théo Constant"
-  },
-  {
-    "90": "",
-    "jour": "29/9/2022",
-    "titre": "Self-study",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 1,
-    "jour": "30/9/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "-",
-    "formateur": "Hugo Bourbon"
-  },
-  {
-    "90": "",
-    "jour": "1/10/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "2/10/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "3/10/2022",
-    "titre": "Self-study",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 1,
-    "jour": "4/10/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "-",
-    "formateur": "Cherif Younis"
-  },
-  {
-    "90": 1,
-    "jour": "5/10/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "-",
+    "jour": "25/11/2024",
+    "titre": "Unity 3D",
+    "description": "Week 11: Unity 3D with Cherif Younis",
     "formateur": "Cherif Younis"
   },
   {
     "90": "",
-    "jour": "6/10/2022",
-    "titre": "Self-study",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 1,
-    "jour": "7/10/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "-",
-    "formateur": "Sylvain Nyssens"
+    "jour": "26/11/2024",
+    "titre": "Unity 3D",
+    "description": "Week 11: Unity 3D with Cherif Younis",
+    "formateur": "Cherif Younis"
   },
   {
     "90": "",
-    "jour": "8/10/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
+    "jour": "27/11/2024",
+    "titre": "Unity 3D",
+    "description": "Week 11: Unity 3D with Cherif Younis",
+    "formateur": "Cherif Younis"
   },
   {
     "90": "",
-    "jour": "9/10/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
+    "jour": "28/11/2024",
+    "titre": "Unity 3D",
+    "description": "Week 11: Unity 3D with Cherif Younis",
+    "formateur": "Cherif Younis"
   },
   {
     "90": "",
-    "jour": "10/10/2022",
-    "titre": "Pitch - Anglais",
-    "description": "-",
-    "formateur": "Alice Abels"
-  },
-  {
-    "90": 1,
-    "jour": "11/10/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "-",
-    "formateur": "Alexandre Wyns"
+    "jour": "29/11/2024",
+    "titre": "Unity 3D",
+    "description": "Week 11: Unity 3D with Cherif Younis",
+    "formateur": "Cherif Younis"
   },
   {
     "90": "",
-    "jour": "12/10/2022",
-    "titre": "Pitch - Anglais",
-    "description": "-",
-    "formateur": "Alice Abels"
-  },
-  {
-    "90": "",
-    "jour": "13/10/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": 1,
-    "jour": "14/10/2022",
-    "titre": "Gestion de production Gaming",
-    "description": "-",
-    "formateur": "Sylvain Nyssens"
-  },
-  {
-    "90": "",
-    "jour": "15/10/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "16/10/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "17/10/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "18/10/2022",
-    "titre": "",
-    "description": "",
-    "formateur": ""
-  },
-  {
-    "90": "",
-    "jour": "19/10/2022",
+    "jour": "30/11/2024",
     "titre": "",
     "description": "",
     "formateur": ""
