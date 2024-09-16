@@ -1,7 +1,7 @@
 import HttpClient from "./HttpClient";
 import datas_dev from './datas_developers.json';
-import datas_gra from './datas_graphics.json';
-import datas_des from './datas_designers.json';
+// import datas_gra from './datas_graphics.json';
+// import datas_des from './datas_designers.json';
 
 class APIDatas extends HttpClient
 {
@@ -17,17 +17,17 @@ class APIDatas extends HttpClient
         };
     }
 
-    get planningGraphics()
-    {
-        return {
-            get : () => datas_gra
-        };
-    }
-    get planningDesigners()
-    {
-        return {
-            get : () => datas_des
-        };
-    }
+    // get planningGraphics()
+    // {
+    //     return {
+    //         get : () => datas_gra
+    //     };
+    // }
+    // get planningDesigners()
+    // {
+    //     return {
+    //         get : () => datas_des
+    //     };
+    // }
     
 } export default APIDatas;

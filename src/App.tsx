@@ -8,14 +8,14 @@ function App()
 {   
     const [idPage, setIdPage] = useState(0);
     let days_dev:any[] = [];
-    let days_gra:any[] = [];
-    let days_des:any[] = [];
+    // let days_gra:any[] = [];
+    // let days_des:any[] = [];
 
     try
     {
         days_dev = api.planningDevelopers.get();
-        days_gra = api.planningGraphics.get();
-        days_des = api.planningDesigners.get();
+        // days_gra = api.planningGraphics.get();
+        // days_des = api.planningDesigners.get();
     }
     catch(error:any)
     {
@@ -29,10 +29,10 @@ function App()
                     <ul className="navbar-nav">
                     <li className="nav-item">
                         <button type="button" data-bs-target="#containerControl" data-bs-slide-to="0" className='btn btn-dark'>
-                            <h2> DEVELOPER </h2>
+                            <h2> 2024 Lead Developper </h2>
                         </button>
                     </li>
-                    <li className="nav-item">
+                    {/* <li className="nav-item">
                         <button type="button" data-bs-target="#containerControl" data-bs-slide-to="1" className='btn btn-dark' >
                             <h2> GRAPHICS </h2>
                         </button>
@@ -41,7 +41,7 @@ function App()
                         <button type="button" data-bs-target="#containerControl" data-bs-slide-to="2" className='btn btn-dark'>
                             <h2> DESIGNER </h2>
                         </button>
-                    </li>
+                    </li> */}
                     </ul>
                 </div>
             </nav>
@@ -55,7 +55,7 @@ function App()
                                 <div className='col-1'> </div>
                             </div>
                         </div>
-                        <div className='carousel-item my-5'>
+                        {/* <div className='carousel-item my-5'>
                             <div id='days-2' className='row'>
                                 <div className='col-1'> </div>
                                 <div className='col-10'> <Days days={days_gra}/> </div>
@@ -68,7 +68,7 @@ function App()
                                 <div className='col-10'> <Days days={days_des}/> </div>
                                 <div className='col-1'> </div>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
                 <div className="btn-group container p-5 my-5 text-center">
